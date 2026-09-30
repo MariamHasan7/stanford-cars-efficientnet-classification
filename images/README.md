@@ -7,6 +7,5 @@ Contents include:
 - Project workflow diagram
 - Training and validation accuracy
 - Training and validation loss
-- Confusion matrix
 - Correct prediction examples
 - Failure prediction examples
