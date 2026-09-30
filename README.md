@@ -27,6 +27,7 @@ The complete pipeline includes:
 - Confusion matrix analysis
 - Successful and failed prediction analysis
 
+![Project Workflow](images/workflow_diagram.png)
 ---
 
 ## 🎯 Problem Definition
@@ -312,8 +313,6 @@ Values along the main diagonal represent correct predictions, while values outsi
 
 Because the dataset contains **196 classes**, the complete confusion matrix contains `196 × 196` cells.
 
-![Confusion Matrix](images/confusion_matrix.png)
-
 The strong diagonal pattern represents correctly classified images, while off-diagonal values show cases where the model confused one vehicle class with another.
 
 ---
@@ -511,6 +510,6 @@ The project also highlights the difficulty of distinguishing visually similar ve
 
 ## 👤 Author
 
-**[Mariam Hasan]**
+**Mariam Hasan**
 
 Computer Vision Systems Development – Final Project
