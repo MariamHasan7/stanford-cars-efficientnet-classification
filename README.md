@@ -397,7 +397,7 @@ stanford-cars-efficientnet-classification/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone <https://github.com/MariamHasan7/stanford-cars-efficientnet-classification.git>
 ```
 
 Then enter the project directory:
