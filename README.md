@@ -27,7 +27,6 @@ The complete pipeline includes:
 - Confusion matrix analysis
 - Successful and failed prediction analysis
 
-![Project Workflow](images/workflow_diagram.png)
 ---
 
 ## 🎯 Problem Definition
@@ -219,7 +218,11 @@ Accuracy / Precision / Recall / F1-Score
 Car Make + Model + Year Prediction
 ```
 
-A graphical workflow diagram will also be included in the `images/` directory.
+### Workflow Diagram
+
+The following diagram illustrates the complete workflow of the proposed car classification system:
+
+![Project Workflow Diagram](images/workflow_diagram.png)
 
 ---
 
