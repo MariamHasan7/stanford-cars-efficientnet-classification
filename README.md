@@ -511,6 +511,13 @@ The project also highlights the difficulty of distinguishing visually similar ve
 
 ---
 
+## 🔗 SDAIA Academy
+
+This project was developed as part of the Computer Vision Systems Development course at SDAIA Academy.
+
+[SDAIA Academy GitHub Repository](https://github.com/SDAIAAcademy)
+
+
 ## 👤 Author
 
 **Mariam Hasan**
